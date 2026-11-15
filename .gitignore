@@ -1,0 +1,27 @@
+# Секрети та конфігурація
+.env
+
+# Сесія Telegram (ключ авторизації акаунта)
+*.session
+*.session-journal
+
+# Згенеровані звіти
+output/
+
+# Локальна документація
+task.md
+README.md
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
